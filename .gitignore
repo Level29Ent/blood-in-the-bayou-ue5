@@ -1,0 +1,39 @@
+# Visual Studio / Xcode / IDE user files
+.vs/
+.vscode/
+.idea/
+*.xcworkspace/
+*.xcodeproj/
+DerivedData/
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Unreal Engine generated build & cache folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Releases/
+*.sln
+*.code-workspace
+
+# Compiled object and executable files
+*.dll
+*.exe
+*.dylib
+*.so
+*.a
+*.lib
+*.pdb
+*.exp
+*.obj
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
